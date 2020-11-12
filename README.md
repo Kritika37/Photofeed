@@ -22,4 +22,4 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-* Deployed on Vercel
+* Deployed on Vercel (https://photofeed-sigma.vercel.app/)
