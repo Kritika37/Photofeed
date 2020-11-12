@@ -22,4 +22,4 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-* Deployed on Netlify 
+* Deployed on Vercel
