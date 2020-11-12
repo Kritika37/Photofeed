@@ -19,11 +19,6 @@ export const Heading = () => {
     <Header>
       <H1>Unsplash</H1>
       <p>The power of photography</p>
-      <p></p>
-      {/* <form>
-        <Input type="text" placeholder="Search photos" />
-        <Button>Search</Button>
-      </form> */}
     </Header>
   )
 }
